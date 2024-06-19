@@ -20,5 +20,5 @@ This code incorporates components from [TReS](https://github.com/isalirezag/TReS
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following paper.
 ```
-Will be updated once the final version is published and a DOI is assigned.
+Will be updated once the final version is published and a DOI is assigned
 ```

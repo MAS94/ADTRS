@@ -18,7 +18,7 @@ In the run.py file, update the folderpath to match the name of the dataset folde
 This code incorporates components from [TReS](https://github.com/isalirezag/TReS) and [EfficientFormer](https://github.com/snap-research/EfficientFormer). 
 
 ## Citation
-If you find the code helpful in your resarch or work, please cite the following paper.
+If you find the code helpful in your research or work, please cite the following paper.
 ```
 Will be updated once the final version is published and a DOI is assigned
 ```

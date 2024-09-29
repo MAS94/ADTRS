@@ -20,5 +20,14 @@ This code incorporates components from [TReS](https://github.com/isalirezag/TReS
 ## Citation
 If you find the code helpful in your research or work, please cite the following paper.
 ```
-Will be updated once the final version is published and a DOI is assigned
+@INPROCEEDINGS{10647621,
+  author={Alsaafin, Mohammed and Alsheikh, Musab and Anwar, Saeed and Usman, Muhammad},
+  booktitle={2024 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Attention Down-Sampling Transformer, Relative Ranking and Self-Consistency For Blind Image Quality Assessment}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1260-1266},
+  keywords={Image quality;Degradation;Adaptation models;Visualization;Image transformation;Transformers;Feature extraction;No-Reference Image Quality Assessment;CNNs;Transformers;Self-Consistency;Relative Ranking},
+  doi={10.1109/ICIP51287.2024.10647621}}
 ```
